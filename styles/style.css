@@ -1,0 +1,23 @@
+html{
+    scroll-behavior: smooth;
+}
+.encabezado{
+    display:flex;
+    background-color: rgb(3, 91, 97);
+    height: 90px;
+    border: thin solid red;
+}
+.logo{
+    height: 100%;
+    width:90px;
+}
+.nav-container a{
+    text-align:center;
+    text-decoration: none;
+    color:#000000;
+}
+
+.producto-contenedor img{
+    width: 400px;
+    height: 400px;
+}
